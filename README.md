@@ -10,3 +10,5 @@ This project is a 2D tile-based Java simulation designed to showcase my proficie
 4. Graphics & Rendering: Drawing and updating game elements using Java’s graphics libraries.
 
 5. Data Structures: Use of arrays, lists, and maps to manage game state efficiently.
+
+For copyright reasons, character and player images are not included in this repository. All code, algorithms, and game logic are fully implemented and functional. Placeholder images can be used to run the simulation.
